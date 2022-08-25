@@ -11,3 +11,11 @@ Max Kuhn and Kjel Johnson
 * 04-eda.ipynb
 * 05-encoding-categorical-variables.ipynb
 * 06-engineering-numeric-predictors.ipynb
+
+
+### TODO:
+
+* Add conda environment
+* Add dependencies
+* Add mlflow to all of the examples
+
